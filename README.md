@@ -22,13 +22,13 @@ Here we describe the general workflow, for details please see the comments and d
 
 ### SV_analysis folder
 
-- **Figure_1_step1.R**: run associations between SV and age in DMP cohort.
+- **Figure_1_step1.R**: run associations between SV and age in DMP cohort
 
-- **Figure_1_step2.R**: run associations between SV and age in other cohorts, check replication and do plots; to get the 105 SVs.
+- **Figure_1_step2.R**: run associations between SV and age in other cohorts, check replication and do plots; to get the 105 SVs
 
-- **Generation_annotation_file.R**: generate SV gene+function annotation (two softwares).
+- **Generation_annotation_file.R**: generate SV gene+function annotation (two softwares)
 
-- **Shortbred_marker_generation.R**: generate protein markers for shortbred.
+- **Shortbred_marker_generation.R**: generate protein markers for shortbred
 
 ### Gene_and_gene_family_analysis folder
 
