@@ -54,6 +54,8 @@ Here we describe the general workflow, for details please see the comments and d
 
 - **11.Gene_metabolites_2.R**: summarize and plot for humann data
 
+- **12.Shortbred.sh**: Run shortbred software
+
 ### Functions folder
 
 - **Part1_functions.R**: association analysis
